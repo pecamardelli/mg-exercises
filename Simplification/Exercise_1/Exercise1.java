@@ -1,3 +1,5 @@
+package Simplification.Exercise_1;
+
 /**
  * Making the method more readable.
  */
